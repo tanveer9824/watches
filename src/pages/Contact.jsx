@@ -39,21 +39,21 @@ const Contact = () => {
           <div className='contact-us-box'>
             <TfiHome className='icons'/>
             <div className='text'>
-              <p>Buttonwood, California.</p>
-              <p className='para'>Rosemead, CA 91770</p>
+              <p>Peshawar, Pakistan.</p>
+              <p className='para'>University town, Peshawar</p>
             </div>
           </div>
           <div className='contact-us-box'>
             <CiMobile3 className='icons'/>
             <div className='text'>
-              <p>+1 253 565 2365</p>
+              <p>+92 310 1269488</p>
               <p className='para'>Mon to Fri 9am to 6pm</p>
             </div>
           </div>
           <div className='contact-us-box'>
             <TfiEmail className='icons'/>
             <div className='text'>
-              <p>support@colorlib.com</p>
+              <p>tanveerok355@gmail.com</p>
               <p className='para'>Send us your query anytime!</p>
             </div>
           </div>
